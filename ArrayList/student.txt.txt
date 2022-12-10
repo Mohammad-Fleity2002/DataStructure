@@ -1,0 +1,7 @@
+100 6
+123 John
+234 Samir
+985 Sawsan
+678 Ali
+145 Layla
+532 Tony
